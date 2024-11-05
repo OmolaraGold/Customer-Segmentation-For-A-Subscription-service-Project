@@ -17,17 +17,31 @@ The customer data used in this analysis includes:
 
 ### KEY METRICS
 - Revenue By Subscription Type: This is the total revenue generated for each subscription type (for example Basic, Premium and standard). This enable us to be able to compare revenue contribution from different product tiers.
+- Revenue By Region: This is the total revenue generated from each region.This helps to identify the region that contribute most to revenue and potential region for expansion.
+- Average Duration By Subscription Type: This helps us to know average subscription lenght within each subscription type. It helps us to determine which subscription type has the most loyal customers.
+- Renytention Rate: This is the percentage of customer who maintain their subscription over a specific period. It Indicate customer loyalty and satisfaction.
+
+### TOOLS USED
+- Microsoft Excel [DOWNLOAD HERE](https://www.microsoft.com): This is for cleaning,analysing and visualization of data. Pivot tables was use to summarize the data for easy interpretation. Charts were also created for virtual representation.
+- SQL: Structured Query Language use for Data Quering.
+- POWERBI: This is used for Data Visualisation
+
+### FORMULAR USED
+``` EXCEL
+Subscription duration=(subscription end - subscription start)
+```
+```SQL
+Select * from [dbo].[customersegmentation_project2]
+```
+
+### VISUALIZATION
+#### REGION BY SUM OF REVENUE
+- PIVOT TABLE
+  
 
 
-Revenue by Subscription Type*  
-   - *Definition*: Total revenue generated for each subscription type (e.g., Basic, Premium).
-   - *Purpose*: Allows comparison of revenue contribution from different product tiers.
-   - *Calculation*: Sum of revenue for each subscription type.
 
-6. *Revenue by Region*  
-   - *Definition*: Total revenue generated from each region.
-   - *Purpose*: Identifies geographic segments contributing most to revenue and potential regions for expansion.
-   - *Calculation*: Sum of revenue for each region.
+
 
 
 
