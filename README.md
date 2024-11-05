@@ -37,7 +37,20 @@ Select * from [dbo].[customersegmentation_project2]
 ### VISUALIZATION
 #### REGION BY SUM OF REVENUE
 - PIVOT TABLE
-  
+![image](https://github.com/user-attachments/assets/e750bd24-1c32-4e0b-8d5b-99f1e457aac4)
+- CHART
+![image](https://github.com/user-attachments/assets/e1420c33-c63d-43f7-8769-dd6d755a9fb9)
+![image](https://github.com/user-attachments/assets/520214e1-dc89-47aa-96bb-ea6c9f6618fd)
+
+#### DEDUCTION
+The following can be deduce from this data;
+
+
+
+
+
+
+
 
 
 
