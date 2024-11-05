@@ -81,5 +81,9 @@ and committment to the service over time. This stability helps ensure a reliable
 ### POWERBI VISUALIZATION
 Below is powerBI dashboard that visualizes the insights found in excel and SQL.
 
+![CUSTOMER DATA PROJECT VISUALS](https://github.com/user-attachments/assets/86a81ea2-da5e-4ac6-9950-ae2732ce7562)
 
+![CUSTOMER DATA PROJECT VISUALS 2](https://github.com/user-attachments/assets/92aec8cd-b4b8-4874-bc91-035f74b8e0bc)
+
+### SQL TABLE AND QUERY
 
