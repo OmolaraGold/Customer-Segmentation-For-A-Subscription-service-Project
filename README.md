@@ -67,6 +67,19 @@ The following where deduce;
 
 #### 3. TOTAL REVENUE BY SUBSCRIPTION TYPE AND CHURN RATE
 - PIVOT TABLE
+![image](https://github.com/user-attachments/assets/c6c825cd-2d0f-4e8e-8579-be6065630a67)
+- CHARTS
+![image](https://github.com/user-attachments/assets/bfaebae7-6a54-42f0-9336-1db8f077deac)
+![image](https://github.com/user-attachments/assets/ff4a82ee-c0d5-46e8-89ae-739af6405e5f)
+
+#### DEDUCTION
+1. BASIC PLAN: This basic subscription plan has high revenue contribution, low churn rate. The basic plan generates the highest revenue among all subscription types and exhibits a relatively low churn rate. This suggests that basic customers are highly engaged and benefits from this offer. The low churn rate implies high customer loyalty, 
+and committment to the service over time. This stability helps ensure a reliable revenue stream from this plan. It is crucial to continue enhancing value through exclusive benefits or loyalty rewards in order to keep the customers in this plan.
+2. PREMIUM PLAN: This premium subscription plan has moderate revenue contribution, high churn rate. The premium plan generates a substantial share of total revenue but has a higher churn rate compared to the basic plan. This indicates that while many customers find value in this tier, there is room for improvement in retention. To reduce churn rate, consider reinforcing the benefits of the premium plan and offer incentives.
+3. STANDRAD PLAN: This standard subscription plan has low revenue contribution, high churn rate. This indicates that many customer do not remain subscribed for this plan for long, likely due to limited features or high price. To reduce churn, consider implementing engagement strategies like educational resources, low-cost upgrade to the standard plan and adding some interesting features  to the standard plan. This could help retain some customers and increase their contribution to total revenue.
+
+### POWERBI VISUALIZATION
+Below is powerBI dashboard that visualizes the insights found in excel and SQL.
 
 
 
