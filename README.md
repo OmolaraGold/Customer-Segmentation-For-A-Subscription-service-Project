@@ -86,4 +86,10 @@ Below is powerBI dashboard that visualizes the insights found in excel and SQL.
 ![CUSTOMER DATA PROJECT VISUALS 2](https://github.com/user-attachments/assets/92aec8cd-b4b8-4874-bc91-035f74b8e0bc)
 
 ### SQL TABLE AND QUERY
+![CUSTOMER DATA PROJECT SQL TABLE](https://github.com/user-attachments/assets/c64efcd3-be05-4a0a-9b9e-197c05231f24)
+![CUSTOMER DATA PROJECT SQL QUERY 1](https://github.com/user-attachments/assets/bebd25ba-251d-49b7-81ba-6fee015b1172)
+![CUSTOMER DATA PROJECT SQL QUERY 2](https://github.com/user-attachments/assets/72045a57-0406-4afc-bf98-85275b91fac7)
+![CUSTOMER DATA PROJECT SQL QUERY 3](https://github.com/user-attachments/assets/3733e7a4-898a-45dc-ba5f-9ca4ded3774e)
 
+### EXCEL TABLE
+![CUSTOMER DATA TABLE PROJECT2](https://github.com/user-attachments/assets/f7864146-6af3-41db-ab33-8e2a27e4859d)
