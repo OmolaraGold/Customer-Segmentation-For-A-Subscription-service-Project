@@ -1,0 +1,5 @@
+# Customer-Segmentation-For-A-Subscription-service-Project
+
+### PROJECT TITLE: CUSTOMER DATA ANALYSIS FOR A SUBSCRIPTION SERVICE
+
+### PROJECT OVERVIEW
