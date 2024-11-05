@@ -35,7 +35,7 @@ Select * from [dbo].[customersegmentation_project2]
 ```
 
 ### VISUALIZATION
-#### REGION BY SUM OF REVENUE
+#### 1. REGION BY SUM OF REVENUE
 - PIVOT TABLE
 ![image](https://github.com/user-attachments/assets/e750bd24-1c32-4e0b-8d5b-99f1e457aac4)
 - CHART
@@ -44,6 +44,14 @@ Select * from [dbo].[customersegmentation_project2]
 
 #### DEDUCTION
 The following can be deduce from this data;
+Analyzing revenue by region can provide valuable insights into customer behavior and market potential across those regions.
+1. EAST (Highest Revenue): High revenue in the Eastern region might result from factors like a larger customer base, higher demand for premium subscription types, or effective marketing strategies. We need to Explore why East outperform other regions considering factors such as customer demographics, preferred subscription types, and marketing effectiveness. And also considering reinvesting in this region to maintain high customer satisfaction and retention rates.
+2. SOUTH (Second Highest Revenue):  South might have shown a strong growth potential but it is still be behind East in terms of revenue. We need to focus on strategies that would make the customers to subscribe to higher-tier plans and improve retention. Promotions might be considered in order to drive engagement and revenue growth.
+3. WEST (Third Highest Revenue): West with a moderate revenue contribution might indicate a growing market. Customer preferences or lower awareness of premium options might be limiting growth. Incentives and promotions to increase subscription adoption could help this region increase its revenue contribution.
+4. NORTH (Lowest Revenue): Low revenue in this region can be as a result of lower customer awareness, few/fewer subscribers or higher churn rates. Growth strategies focusing on customer engagement and preferences could be targeted Explore tailored promotions to drive engagement, boost subscriptions and reduce churn.
+
+#### 2. SUBSCRIPTION TYPES BY REGION
+
 
 
 
