@@ -51,6 +51,8 @@ Analyzing revenue by region can provide valuable insights into customer behavior
 4. NORTH (Lowest Revenue): Low revenue in this region can be as a result of lower customer awareness, few/fewer subscribers or higher churn rates. Growth strategies focusing on customer engagement and preferences could be targeted Explore tailored promotions to drive engagement, boost subscriptions and reduce churn.
 
 #### 2. SUBSCRIPTION TYPES BY REGION
+- PIVOT TABLE
+  
 
 
 
