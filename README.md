@@ -52,22 +52,21 @@ Analyzing revenue by region can provide valuable insights into customer behavior
 
 #### 2. SUBSCRIPTION TYPES BY REGION
 - PIVOT TABLE
-  
+![image](https://github.com/user-attachments/assets/b425cbff-17f3-42af-9187-d266c3445b96)
+- CHARTS
+![image](https://github.com/user-attachments/assets/1d734fba-8437-43a6-8ca4-7387908ed652)
+![image](https://github.com/user-attachments/assets/2aee5465-b41a-4719-b7bf-59f4dce97f79)
+- SQL
+![CUSTOMER DATA PROJECT SQL QUE 6](https://github.com/user-attachments/assets/fdf54bbb-7bdc-4535-a4c7-ef5d6815f4ec)
 
+#### DEDUCTION
+The following where deduce;
+1. Basic Subscription Type: The Basic plan is the primary revenue driver, with the highest lifetime value and loyalty potential. The basic subscription plan generates the largest share of overall revenue, indicating that most customers subscribe to this plan and are satisfied. This plan represents a key group to maintain through continous engagement. Given the high revenue from this plan, there may be an opportunity to upsell or cross-sell additional services to Basic subscribers.
+2. Premium Subscription Type: The premium plan contributes a moderate portion of the total revenue. Customers in this plan may seek a balance between value and cost, indicating that they might appreciate some basic features but at a more affordable price. This group represents a strong upsell opportunity,with targeted marketing and incentives.
+3. Standard Subscription Type: The standard plan generates the smallest portion of total revenue. Many standard customers could be considered for subscribing to the Basic or Premium plans if there needs evolve. Offering tailored upgrade incentives could also help.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### 3. TOTAL REVENUE BY SUBSCRIPTION TYPE AND CHURN RATE
+- PIVOT TABLE
 
 
 
